@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "theresenhasneverdie.mcsh.io",
+    "ip": "glowssmp.mcsh.gg",
     "port": 25565,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
